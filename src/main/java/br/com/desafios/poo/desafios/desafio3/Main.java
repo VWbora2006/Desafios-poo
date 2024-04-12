@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.Funcionario;
+package br.com.desafios.poo.desafios.desafio3;
 
 public class Main {
     public static void main(String[] args) {

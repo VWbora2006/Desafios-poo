@@ -1,4 +1,4 @@
-package org.example;
+package br.com.desafios.poo.desafios.desafio3;
 
 public class Funcionario {
     private String nome;
